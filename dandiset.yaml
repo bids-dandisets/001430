@@ -3,6 +3,7 @@
 # and obtained from the dandiarchive.
 '@context': 
   https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.9/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -19,8 +20,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: surgical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 667502140
-  numberOfFiles: 4
+  numberOfBytes: 668064876
+  numberOfFiles: 6
   numberOfSubjects: 1
   schemaKey: AssetsSummary
   species:
@@ -41,9 +42,12 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- name: Ding, Weihua
+  schemaKey: Person
 dateCreated: '2025-04-30T15:11:42.291066+00:00'
 description: aging-associated decrease of PGC-1α promotes pain chronification, which
   might be harnessed to alleviate the burden of chronic pain in older individuals.
+ethicsApproval: []
 id: DANDI:001430/draft
 identifier: DANDI:001430
 license:
@@ -51,8 +55,10 @@ license:
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001430/versions/draft/assets/
 name: Aging-associated decrease of PGC-1α promotes pain chronification
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
 url: https://dandiarchive.org/dandiset/001430/draft
 version: draft
+wasGeneratedBy: []

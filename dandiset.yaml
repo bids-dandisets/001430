@@ -36,7 +36,7 @@ citation: Shen, Shiqian (2025) Aging-associated decrease of PGC-1α promotes pai
   (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001430/draft
 contributor:
 - affiliation: []
-  email: shiqianshen@gmail.com
+  email: sshen2@mgh.harvard.edu
   includeInCitation: true
   name: Shen, Shiqian
   roleName:
@@ -44,6 +44,28 @@ contributor:
   schemaKey: Person
 - name: Ding, Weihua
   schemaKey: Person
+- name: Wu, Xinbo
+  schemaKey: Person
+- awardNumber: R61 NS126029
+  name: National Institute of Health (NIH)
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: R03 AG067947
+  name: National Institute of Health (NIH)
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: R01 AG082975
+  name: National Institute of Health (NIH)
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: R01 AG070141
+  name: National Institute of Health (NIH)
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
 dateCreated: '2025-04-30T15:11:42.291066+00:00'
 description: aging-associated decrease of PGC-1α promotes pain chronification, which
   might be harnessed to alleviate the burden of chronic pain in older individuals.
